@@ -12,7 +12,8 @@ Development work of systems for about 1 year using technologies such as Angular,
 [![Gmail Badge](https://img.shields.io/badge/-guilhermemarcionilo@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilherme.schell.guilhermemarcionilo@gmail.com)](mailto:guilhermemarcionilo@gmail.com)
 
 
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Marcionilo&show_icons=true&theme=vue)
 
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Marcionilo&show_icons=true&theme=vue)
 
