@@ -2,11 +2,13 @@
 
 ### Hello everyone, my name is Guilherme 😄 
 
-I am a Brazilian developer, and I am currently taking a course at Generation Brazil to become a Java Full Stack Junior developer.❤️🤩
+I'm Brazilian and Java developer Full Stack Junior.❤️🤩
 
-Development work of systems for about 1 year using technologies such as Angular, Spring Boot, Docker, TypeScript, Java, JavaScript, HTML, Node, CSS, BootStrap and MySQL. In addition to agile methodologies such as Scrum. 👨‍💻 
+I am currently looking for a job.
 
-Technologies I'm studying:
+The technologies I'm studying are Angular, Spring Boot, Docker, TypeScript, Java, JavaScript, HTML, Node, CSS, BootStrap and MySQL. In addition to agile methodologies like Scrum. 👨‍💻
+
+Technologies:
 
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 
