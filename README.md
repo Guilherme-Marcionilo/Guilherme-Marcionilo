@@ -20,5 +20,5 @@ Technologies:
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Marcionilo&show_icons=true&theme=blue-green)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Marcionilo&show_icons=true&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Marcionilo&show_icons=true&theme=blue-green)
 
