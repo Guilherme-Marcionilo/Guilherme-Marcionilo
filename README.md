@@ -16,7 +16,7 @@ Technologies:
 ## My Networks
 [![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Marcionilo-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/guilherme-marcionilo/) [![Gmail Badge](https://img.shields.io/badge/-guilhermemarcionilo@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilherme.schell.guilhermemarcionilo@gmail.com)](mailto:guilhermemarcionilo@gmail.com)
 
-
+## GitHub Status
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Marcionilo&show_icons=true&theme=blue-green)
 
 
