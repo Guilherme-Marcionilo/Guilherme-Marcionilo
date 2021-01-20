@@ -4,8 +4,6 @@
 
 I'm Brazilian and Java developer Full Stack Junior.❤️🤩
 
-I am currently looking for a job.
-
 The technologies I'm studying are Angular, Spring Boot, Docker, TypeScript, Java, JavaScript, HTML, Node, CSS, BootStrap and MySQL. In addition to agile methodologies like Scrum. 👨‍💻
 
 Technologies:
