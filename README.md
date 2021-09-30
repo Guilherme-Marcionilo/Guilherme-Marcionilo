@@ -2,9 +2,9 @@
 
 ### Hello everyone, my name is Guilherme 😄 
 
-I'm Brazilian and Java developer Full Stack Junior.❤️🤩
+I'm Brazilian and Java/Kotlin developer at ZUP Innovation.❤️🤩
 
-The technologies I'm studying are Angular, Spring Boot, Docker, TypeScript, Java, JavaScript, HTML, Node, CSS, BootStrap and MySQL. In addition to agile methodologies like Scrum. 👨‍💻
+The technologies I'm studying are Java, Kotlin, Micronaut, Scylla, MongoDB, Angular, Spring Boot, Docker, TypeScript, Java, JavaScript, HTML, Node, CSS, BootStrap and MySQL. In addition to agile methodologies like Scrum. 👨‍💻
 
 Technologies:
 
